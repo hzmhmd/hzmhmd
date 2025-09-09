@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Hazim Muhammad 
 
-<!--
-**hzmhmd/hzmhmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate | 💻 Aspiring IT Engineer & Embedded Systems Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming: C, C++, Python, PHP,   
+- Web Development: HTML, CSS, PHP, MySQL 
+- Embedded Systems: Arduino, STM32, Raspberry Pi  
+
+---
+
+## 📫 Connect with Me
+- 📍 Penang, Malaysia  
+- 📧 [hazimmuhammad017@gmail.com]  
+- 💼 [LinkedIn](www.linkedin.com/in/hazimmuhammad017)    
+
+---
+⭐️ *Always remember what you hustle for !.*

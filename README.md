@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Hazim Muhammad 
 
-🎓 Computer Engineering Graduate | 💻 Aspiring IT Engineer & Embedded Systems Enthusiast  
+ Computer Engineering Graduate |  Aspiring IT Engineer & Embedded Systems Enthusiast  
 
 ---
 
-## 🔧 Skills & Tools
+##  Skills & Tools
 - Programming: C, C++, Python, PHP,   
 - Web Development: HTML, CSS, PHP, MySQL 
 - Embedded Systems: Arduino, STM32, Raspberry Pi  
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 - 📍 Penang, Malaysia  
 - 📧 [hazimmuhammad017@gmail.com]  
 - 💼 [LinkedIn](www.linkedin.com/in/hazimmuhammad017)    
